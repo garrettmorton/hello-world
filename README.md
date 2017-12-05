@@ -1,3 +1,3 @@
 # hello-world
 
-Trying to learn DACS!
+Learning DACS!
